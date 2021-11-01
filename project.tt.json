@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "TaroifyDebugList",
+  "description": "taroify list 组件没有触发onload问题的最小复现demo",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
